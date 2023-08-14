@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/54/251/png-transparent-microsoft-sql-server-microsoft-system-center-configuration-manager-system-center-virtual-machine-manager-database-microsoft-angle-white-windows-server-thumbnail.png" height="40" alt="microsoftsqlserver logo"  />
+
 </div>
 
 ###
