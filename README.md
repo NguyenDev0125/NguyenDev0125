@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg](https://img.icons8.com/?size=1x&id=11400&format=png)" height="40" alt="microsoftsqlserver logo"  />
 </div>
 
 ###
@@ -55,7 +55,7 @@
 
 ###
 
-<h2 align="center">Quiz Game</h2>
+<h2 align="center"> 🌟 Quiz Game 🌟 </h2>
 
 ###
 
@@ -67,7 +67,7 @@
 
 ###
 
-<h2 align="center">3Mini Games</h2>
+<h2 align="center"> 🌟 3Mini Games 🌟 </h2>
 
 ###
 
@@ -79,7 +79,7 @@
 
 ###
 
-<h2 align="center">Tanks Battle</h2>
+<h2 align="center"> 🌟 Tanks Battle 🌟 </h2>
 
 ###
 
@@ -91,7 +91,7 @@
 
 ###
 
-<h2 align="center">Spider Cave</h2>
+<h2 align="center"> 🌟 Spider Cave 🌟 </h2>
 
 ###
 
@@ -103,7 +103,7 @@
 
 ###
 
-<h2 align="center">Flappy Bird</h2>
+<h2 align="center"> 🌟 Flappy Bird 🌟 </h2>
 
 ###
 
