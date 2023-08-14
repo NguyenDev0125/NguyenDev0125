@@ -37,7 +37,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/FFFFFF/unity.png" alt="unity"/>
+  <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/FFFFFF/unity.png" alt="unity"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
