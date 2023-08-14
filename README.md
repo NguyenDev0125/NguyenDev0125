@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me </h3>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h3 align="left">Persional project</h3>
+<h3 align="left">Persional projects</h3>
 
 ###
 
@@ -71,7 +71,7 @@
 
 ###
 
-<p align="left">Demo : https://www.youtube.com/bZ-GhSzowBk</p>
+<p align="left">Demo : https://www.youtube.com/watch?v=bZ-GhSzowBk </p>
 
 ###
 
