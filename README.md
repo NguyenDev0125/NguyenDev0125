@@ -95,7 +95,7 @@
 
 ###
 
-<p align="left">Demo : https://www.youtube.com/Pd3F2V9lC_A</p>
+<p align="left">Demo : https://youtu.be/Pd3F2V9lC_A</p>
 
 ###
 
@@ -107,7 +107,7 @@
 
 ###
 
-<p align="left">Demo : https://www.youtube.com/MahkS9888u0</p>
+<p align="left">Demo : https://youtu.be/MahkS9888u0</p>
 
 ###
 
