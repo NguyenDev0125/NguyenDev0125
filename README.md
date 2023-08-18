@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">My name is NguyenDev<br>I'm game developer</p>
+<p align="left">My name is NguyenDev<br>I'm a game developer</p>
 
 ###
 
